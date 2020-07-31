@@ -38,3 +38,4 @@ $(document).ready(function () {
 
 })
 
+// time block coloring, used this code as ref cause i could not figure that out: https://stackoverflow.com/questions/59995703/trying-to-change-background-color-based-off-if-the-hour-is-in-the-past-current
