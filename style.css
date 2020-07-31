@@ -3,6 +3,7 @@ body {
     font-size: 16px;
     line-height: 1;
     font-family: 'Raleway', sans-serif;
+    box-shadow: 0 0 5px 1px;
 }
 
 textarea {
@@ -23,13 +24,14 @@ textarea {
     border-bottom: 10px solid black;
 }
 
-.description {
+.userInput {
     white-space: pre-wrap;
 }
 
 .time-block {
     text-align: center;
     border-radius: 15px;
+    box-shadow: 0 0 5px 1px;
 }
 
 .row {
@@ -78,3 +80,6 @@ textarea {
     box-shadow: 0 0 5px 1px;
 }
 
+.col-md-1 {
+    background-color: #06aed5;
+}
